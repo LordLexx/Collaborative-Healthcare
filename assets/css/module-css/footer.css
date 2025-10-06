@@ -257,6 +257,12 @@
   .space-brev{
   margin-left: 0px !important;
   }
+
+  .inline-times{
+    overflow: visible;
+    white-space: normal;
+
+  }
 }
 
 @media only screen and (max-width: 991px){
@@ -272,6 +278,11 @@
   .space-brev{
   margin-left: 0px !important;
   }
+
+  .inline-times{
+    overflow: visible;
+  }
+  
 }
 
 @media only screen and (max-width: 767px){
@@ -295,6 +306,10 @@
 
   .space-brev{
   margin-left: 0px !important;
+  }
+
+  .inline-times{
+    overflow: visible;
   }
 }
 
